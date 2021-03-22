@@ -1,0 +1,14 @@
+{
+  "name": "fitness247firestoreimport",
+  "version": "1.0.0",
+  "description": "JSON to Firestore Importer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Buzzelli",
+  "license": "ISC",
+  "dependencies": {
+    "firestore-export-import": "^0.13.0"
+  }
+}
