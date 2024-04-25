@@ -1,12 +1,13 @@
 // Firebase Config
 const firebaseConfig = {
-  apiKey: "AIzaSyCqjFaTMwkLbSTGdC_Q4KQE-qprL6tyJNo",
-  authDomain: "fitness247-1a962.firebaseapp.com",
-  projectId: "fitness247-1a962",
-  storageBucket: "fitness247-1a962.appspot.com",
-  messagingSenderId: "610056733465",
-  appId: "1:610056733465:web:f3afbfda57e8e62d71fb88",
-  measurementId: "G-TK4XNYRP6B"
+  apiKey: "AIzaSyCz5mJBRqCpBA63L6A4D-U_Vdjp9hMnS3k",
+  authDomain: "fitness247-v2.firebaseapp.com",
+  databaseURL: "https://fitness247-v2-default-rtdb.firebaseio.com",
+  projectId: "fitness247-v2",
+  storageBucket: "fitness247-v2.appspot.com",
+  messagingSenderId: "98942077415",
+  appId: "1:98942077415:web:c35c1d918dcd031edcd542",
+  measurementId: "G-F1HTLSMPS1"
 }
 // Exports
 module.exports = firebaseConfig;
